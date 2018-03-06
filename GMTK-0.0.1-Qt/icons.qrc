@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/zoomout.png</file>
+        <file>images/zoomin.png</file>
+        <file>images/selector.png</file>
+        <file>images/save.png</file>
+        <file>images/rect.png</file>
+        <file>images/print.png</file>
+        <file>images/open.png</file>
+        <file>images/line.png</file>
+        <file>images/file.png</file>
+        <file>images/exporttrans.png</file>
+        <file>images/export.png</file>
+        <file>images/exit.png</file>
+        <file>images/cuttrans.png</file>
+        <file>images/cut.png</file>
+        <file>images/copytrans.png</file>
+        <file>images/copy.png</file>
+        <file>images/circle.png</file>
+    </qresource>
+</RCC>
